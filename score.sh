@@ -48,6 +48,6 @@ then
   SCORE=$((SCORE+10))
 fi
 
-echo "Half of th score comes from automatic test that compare the output of the challenge with the benchmark API."
+echo "Half of the score comes from automatic test that compares the output of the challenge with the benchmark API."
 echo "The other half of the score will come from manual evaluation be a reviewer based on the next step live coding session."
 echo "FS_SCORE:${SCORE}%"
