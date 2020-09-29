@@ -11,9 +11,8 @@ It should also take form-data attributes ```offset``` and ```limit``` and respon
 Sample benchmark API call can be found in the ```benchmark.php``` file.
 
 #### Guidelines and restrictions
-Please do not use any frameworks for this solution. You can use simple libraries like Guzzle though.
-Assume you're working in a team on this project. 
-Please commit any vendor files required for your solution to run.
+Please do not use any frameworks for this solution. You can use simple libraries like Guzzle though (already included in composer config). 
+When working with GIT, please assume you're working in a team on this project.
 
 #### What will be evaluated:
 - accuracy of the exposed endpoint - it needs to resemble the benchmark
