@@ -5,7 +5,7 @@ configuration:
     command: bash install.sh
   ide_config:
     default_open_files:
-      - score.sh
+      - README.md
     project_menu:
       run: bash score.sh
       install: bash install.sh
