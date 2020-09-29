@@ -2,7 +2,7 @@ version: 1.0
 configuration:
   has_webserver: false
   scoring:
-    command: bash score.sh
+    command: bash install.sh
   ide_config:
     default_open_files:
       - score.sh
