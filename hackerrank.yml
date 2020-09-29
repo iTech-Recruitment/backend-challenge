@@ -8,5 +8,5 @@ configuration:
       - score.sh
     project_menu:
       run: bash score.sh
-      install: composer install
+      install: bash install.sh
       test: bash score.sh
